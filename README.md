@@ -57,8 +57,8 @@ Once the Bulky Books project is up and running, you can start using its features
 
 ### Admin View
 1. Access the admin view by logging in as an administrator. The default admin credentials are:
-   - Username: admin
-   - Password: admin123
+   - Username: ahmed@gmail.com
+   - Password: dY2:m6cJAJnAVtz
 
 2. From the admin dashboard, you can perform the following actions:
    - Add new books by providing the necessary information in the "Add Book" form.
